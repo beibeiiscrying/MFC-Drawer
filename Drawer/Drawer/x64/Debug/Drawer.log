@@ -1,0 +1,16 @@
+﻿  pch.cpp
+  ChildView.cpp
+  Circle.cpp
+  Drawer.cpp
+  Graphic.cpp
+  MainFrm.cpp
+  MyScrollView.cpp
+  OneTab.cpp
+  ProperSet.cpp
+  SecondTab.cpp
+  Shape.cpp
+  Text.cpp
+  ThrTab.cpp
+  Triangle.cpp
+  正在產生程式碼...
+  Drawer.vcxproj -> F:\workspace\chickpt\陳貝貝\0924\Drawer\x64\Debug\Drawer.exe
